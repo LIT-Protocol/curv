@@ -1,5 +1,5 @@
 [package]
-name = "curv"
+name = "curv-kzen"
 version = "0.9.0"
 edition = "2018"
 authors = [
